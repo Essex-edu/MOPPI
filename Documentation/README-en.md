@@ -1,4 +1,7 @@
-# Table of Contents
+# Microsoft Office Professional Plus Installer  
+**M.O.P.P.I.** (aka [MOPPI](./) is a project that uses a text-based user interface to automate the installation and activation of Microsoft Office Professional Plus. Since Microsoft Office products now use Click-to-Run technology instead of the traditional Windows Installer (MSI), MOPPI fully leverages this approach via the Windows command-line interface to streamline both setup and activation. 
+
+## Table of Contents
 * [Default Apps](#default-apps)
 * [Other Apps](#other-apps)
 * [Utilities](#utilities)
@@ -6,7 +9,7 @@
 * [Activation](#activation)
 * [Download](#download)
 
-## Default Apps
+### Default Apps
 * Microsoft Access  
 * Microsoft Excel  
 * Microsoft OneDrive  
@@ -16,14 +19,14 @@
 * Microsoft Skype for Business  
 * Microsoft Word  
 
-## Other Apps
+### Other Apps
 * Microsoft Project  
 * Microsoft Visio  
 
-## Utilities
+### Utilities
 * Microsoft Office Removal Tool  
 
-## Installation
+### Installation
 * **Supported OS:** Windows 10  
   * OS Build 1703 or later  
 * **Prerequisites:**  
@@ -36,7 +39,7 @@
   * Administrator privileges  
     * Run as administrator  
 
-## Activation
+### Activation
 * **Internet connection required:**  
   * Ethernet (preferred)  
   * Wi-Fi  
@@ -44,5 +47,5 @@
   * Add the key to `configuration.xml` before installation  
   * Or use **Change Product Key** after installation  
 
-## Download
+### Download
 Download the latest version of **[MOPPI.zip](https://github.com/nyhtml/MOPPI/releases/latest/download/MOPPI.zip)** or browse all [releases](https://github.com/nyhtml/MOPPI/releases/) of [MOPPI](https://github.com/nyhtml/MOPPI) on GitHub.
